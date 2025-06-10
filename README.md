@@ -1,32 +1,32 @@
 <h1 align="center">👋 Hi, I'm Felipe García</h1>
-<h3 align="center"> Fullstack Java Developer with a passion for clean code & scalable backend architecture</h3>
+<h3 align="center">Fullstack Java Developer | Clean Code Enthusiast | Backend Architecture Lover</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **Java Spring Boot REST APIs**
-- 🌱 Learning: **Spring Security, PostgreSQL, JWT, Docker**
-- 💬 Ask me about: **Java • Spring • HTML • CSS • JavaScript**
-- 🧰 Tools I use every day: **NetBeans • InteliJ • Git • Postman • GitHub**
+- 🔭 Currently building: **Java Spring Boot REST APIs**
+- 🌱 Learning: `Spring Security`, `JWT`, `Docker`, `PostgreSQL`
+- 💬 Ask me about: `Java` • `Spring` • `HTML` • `CSS` • `JavaScript`
+- 🧰 Tools I use: `NetBeans` • `IntelliJ` • `Git` • `Postman` • `MySQL` • `Figma`
 - 📫 Reach me at: **pipeg1069@gmail.com**
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🐶 [Veterinary Management API](https://github.com/Pipe-Garcia/Veterinary-Management-API)
-A complete RESTful API built using **Spring Boot**, **JPA**, **MySQL**, and **DTO architecture**.
-- Multi-layered architecture (Controller, Service, Repository, DTO)
-- CRUD operations for **Owners** and **Pets**
-- Dynamic filtering with custom DTOs
-- Follows modern Java backend best practices ✅
+| Project | Stack | Description |
+|--------|--------|-------------|
+| [📦 Bazar API](https://github.com/Pipe-Garcia/bazar-springboot-api) | **Backend** | Sales system built with Spring Boot – layered architecture, DTOs, validations, custom queries, and database relationships. |
+| [🐶 Veterinary Management API](https://github.com/Pipe-Garcia/Veterinary-Management-API) | **Backend** | Complete REST API using Spring Boot + MySQL for managing clients and pets. Clean architecture and custom DTO queries. |
+| [👥 User Management App](https://github.com/Pipe-Garcia/management-users-fullstack) | **Fullstack** | Java Spring Boot + JS app for managing users. Form validation, pagination, dynamic filtering, and clean CRUD. |
+| [🖥️ Batatabit Landing Page](https://github.com/Pipe-Garcia/Batatabit-project) | **Frontend** | Fully responsive site clone using HTML, CSS, and Sass. Pixel-perfect layout, mobile-first design, and smooth responsiveness. |
 
 ---
 
 ### 🧰 Languages & Tools
 
-#### 💻 Frontend:
+#### 💻 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -34,19 +34,19 @@ A complete RESTful API built using **Spring Boot**, **JPA**, **MySQL**, and **DT
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
 
-#### 🧠 Backend:
+#### ⚙️ Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
 </p>
 
-#### 🗄️ Databases:
+#### 🗄️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-#### 🔧 Tools:
+#### 🧪 Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
@@ -67,7 +67,11 @@ A complete RESTful API built using **Spring Boot**, **JPA**, **MySQL**, and **DT
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipe-Garcia&show_icons=true&theme=tokyonight" alt="github stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipe-Garcia&show_icons=true&theme=tokyonight" />
 </p>
+
+---
+
+> 🚀 *Always building, learning, and pushing clean Java backend to the next level*.
 
