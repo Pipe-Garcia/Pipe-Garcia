@@ -58,7 +58,6 @@
 ### 📱 Connect with Me
 
 <p>
-  <a href="https://twitter.com/pipegar7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
   <a href="https://linkedin.com/in/felipe-garcía-dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
   <a href="https://github.com/Pipe-Garcia"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/></a>
 </p>
