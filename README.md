@@ -100,7 +100,7 @@ https://portfolio-felipegarcia.vercel.app/
 ## Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/felipe-garc%C3%ADa-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-garcia-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
   <a href="https://github.com/Pipe-Garcia" target="_blank">
