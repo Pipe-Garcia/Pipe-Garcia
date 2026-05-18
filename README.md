@@ -43,7 +43,7 @@ Professional portfolio built with **React + Vite**, designed to present real dev
 https://github.com/Pipe-Garcia/portfolio-felipegarcia
 
 **Live site:**  
-https://portfolio-felipegarcia-fyyfdshnl-pipe-garcias-projects.vercel.app/
+https://portfolio-felipegarcia.vercel.app/
 
 ---
 
