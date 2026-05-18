@@ -13,7 +13,7 @@
 - Interested in **REST APIs**, **business logic**, **security**, and **maintainable architecture**
 - Built a real **commercial, inventory, and delivery management system** for **Decomat S.R.L.**
 - Currently deepening **testing**, **CI/CD**, **React**, **deployment**, and **professional engineering practices**
-- Portfolio: **https://portfolio-felipegarcia-fyyfdshnl-pipe-garcias-projects.vercel.app/**
+- Portfolio: **https://portfolio-felipegarcia.vercel.app/**
 - Contact: **pipeg1069@gmail.com**
 
 ---
